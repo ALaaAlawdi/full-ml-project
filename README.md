@@ -1,3 +1,1 @@
-numpy
-pandas
-seaborn
+## End to End Machine Learning Project
